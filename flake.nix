@@ -21,7 +21,7 @@
           sha256 = "sha256-WyaDnCRyZRwOkZyzNp1ouhNY5HuAvU6U3yUjiB5m+uE=";
         };
 
-        vendorSha256 = "sha256-ZPbTbTHLuSQqU8YiH/fRW9VdQWfp++zEEc7swg6nB14=";
+        vendorHash = "sha256-ZPbTbTHLuSQqU8YiH/fRW9VdQWfp++zEEc7swg6nB14=";
 
         overrideModAttrs = (_: {
           postBuild = ''
